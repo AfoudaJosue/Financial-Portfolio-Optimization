@@ -1,8 +1,10 @@
-# Application web R Shiny pour l'Analyse et l'Optimisation d'un portefeuille boursier
+# **Application web R Shiny pour l'Analyse et l'Optimisation d'un portefeuille boursier**
 
 Cette application peut être utilisée par les sociétés d'investissement et particuliers ayant un portefeuille d'actions en bourse. Elle leur sera utile pour l'analyse et l'optimisation de leur portefeuille. Grâce à cette application, les Gestionnaires de Portefeuille d'une société d'investissement pourront analyser efficacement les données des actifs à leur charge et prendre ainsi des décisions éclairées concernant leurs investissements. De plus, avec cette application ils pourront mieux conseiller leurs clients actuels et futurs.
 
 **Il s'agit d'une application performante, dynamique, simple d'utilisation et qui présente toutes les fonctionnalités nécessaires pour la création, l'analyse et l'optimisation de portefeuille**.
+
+Lien de l'application :  https://afoudajosue.shinyapps.io/financial-portfolio-analysis/
 
 ## Fonctionnalités de l'application
 
@@ -440,3 +442,15 @@ abline(a = 0, b = 1, lty = 3)
 ```
 
 Si les pondérations des 2 portefeuilles (estimation et évaluation) sont identiques, elles doivent être sur la ligne de 45 degrés.
+
+![](https://github.com/AfoudaJosue/Portfolio-R-Markdown/raw/main/images/mon_logo.jpg)
+
+N'hésitez pas à me contacter pour vos projets en Data Science. Je me ferai le plaisir de vous accompagner : afouda.josue@gmail.com
+
+Si vous voulez apprendre à développer aussi des applications web R Shiny, vous pouvez : 
+
+* acheter mon livre intitulé [Développement Web en Data Science avec R Shiny sans HTML, CSS, PHP ni JavaScript](https://www.amazon.fr/gp/product/B095Q5HCTW/ref=dbs_a_def_rwt_hsch_vapi_tu00_p1_i3) disponible en version papier et format Kindle sur [Amazon](https://www.amazon.fr/Josu%25C3%25A9-AFOUDA/e/B08F17S1V8?ref=dbs_a_def_rwt_hsch_vu00_tkin_p1_i0)
+
+* Lire gratuitement la version [html](https://rpubs.com/Josue90/RShiny_Afouda) de ce livre sur [RPubs](https://rpubs.com/Josue90/RShiny_Afouda)
+
+* Regarder ma vidéo [YouTube](https://youtu.be/4XGI_ye0y4M) : [Formation R Shiny pour les débutants](https://youtu.be/4XGI_ye0y4M)
